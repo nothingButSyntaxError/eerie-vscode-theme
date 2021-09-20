@@ -1,0 +1,30 @@
+{
+  "name": "eerie",
+  "displayName": "Eerie",
+  "description": "A dark theme that is all cold!!! Woah!",
+  "version": "0.0.1",
+  "publisher": "nothingButSyntaxError",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "author": {
+    "name": "Parth",
+    "email": "parthglt@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/nothingButSyntaxError/eerie-vscode-theme.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "eerie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eerie-color-theme.json"
+      }
+    ]
+  }
+}
