@@ -4,8 +4,16 @@
   "colors": {
     "editor.background": "#1b191bf1",
     "editor.foreground": "#bfd9eb",
-    "activityBarBadge.background": "#ee2207",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBar.background": "#09012548",
+    "activityBarBadge.background": "#ff5370",
+    "sideBarTitle.foreground": "#bbbbbb",
+    "statusBar.background": "#FF5370",
+    "statusBar.border": "#ff0000",
+    "statusBar.debuggingBackground": "#6dadc7",
+    "terminal.ansiBlue": "#b60bcc",
+    "terminal.background": "#1b191bf1",
+    "terminal.foreground": "#ff5370",
+    "terminal.dropBackground": "#1b191bf1"
   },
   "tokenColors": [
     {
@@ -85,6 +93,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#c460d8"
       }
     },
@@ -92,6 +101,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#f07178"
       }
     },
@@ -130,7 +140,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#31ca06"
+        "foreground": "#5ba845"
       }
     },
     {
@@ -146,6 +156,7 @@
         "support.type.sys-types"
       ],
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#FFCB6B"
       }
     },

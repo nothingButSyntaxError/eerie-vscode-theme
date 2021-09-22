@@ -2,7 +2,7 @@
   "name": "eerie",
   "displayName": "Eerie",
   "description": "A dark theme that is all cold!!! Woah!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "nothingButSyntaxError",
   "engines": {
     "vscode": "^1.60.0"
