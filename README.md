@@ -1,6 +1,6 @@
 <p align="center">
   
-<img height="210" width="410" src="/home/parth/vscode-theme/dark-saber/assets/the-weird-and-the-eerie-cover.png">
+<img height="210" width="410" src="https://nothingbutsyntaxerror.github.io/the-weird-and-the-eerie-cover.png">
 </p>
 
 <h1>Hello!</h1>
@@ -10,14 +10,14 @@
 <p> - Next press Ctrl+k and Ctrl+t (Cmd+k and Cmd+t on Mac) together to select theme and select Eerie</p>
 <p> - An there you go the eerie theme has been installed and setup and you can start using it!</p>
 <p align="center">
-<img height="500" width="900" src="/home/parth/vscode-theme/dark-saber/assets/first.png">
+<img height="500" width="900" src="https://nothingbutsyntaxerror.github.io/first.png">
 <br />
 <br />
 <br />
 <br />
 <br />
 
-<img height="500" width="900" src="/home/parth/vscode-theme/dark-saber/assets/second.png">
+<img height="500" width="900" src="https://nothingbutsyntaxerror.github.io/second.png">
 </p>
 
 <h1>Contribute to Eerie</h1>
