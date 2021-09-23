@@ -2,8 +2,9 @@
   "name": "eerie",
   "displayName": "Eerie",
   "description": "A dark theme that is all cold!!! Woah!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "nothingButSyntaxError",
+  "icon": "assets/the-weird-and-the-eerie-cover.png",
   "engines": {
     "vscode": "^1.60.0"
   },
